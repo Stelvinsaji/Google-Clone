@@ -1,4 +1,4 @@
-# [Google Clone](https://google-clone-master.netlify.app/) #
+# [Google Clone](https://google-clone-master.netlify.app/)
 
 ## Use the package manager [npm](https://www.npmjs.com/) to install
 ```
@@ -29,4 +29,4 @@ const UseGoogleSearch = (term) => {
 
     return {data};
 };
-```
+````
