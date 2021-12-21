@@ -40,3 +40,5 @@ const UseGoogleSearch = (term) => {
     return {data};
 };
 ````
+## License
+MIT License
